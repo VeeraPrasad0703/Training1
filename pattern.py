@@ -7,6 +7,5 @@ for i in range(rows):
     print()
         
         
-        
-        
-        
+      
+    
